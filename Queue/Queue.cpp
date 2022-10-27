@@ -14,7 +14,7 @@ class Queue
 };
 
 
-/*Define Cola constructor*/
+/*Define Queue constructor*/
 Queue::Queue()
 {
     input = 0;
